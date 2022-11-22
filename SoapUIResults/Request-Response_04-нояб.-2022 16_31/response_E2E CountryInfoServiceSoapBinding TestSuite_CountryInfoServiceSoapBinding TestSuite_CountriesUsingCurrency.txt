@@ -1,0 +1,36 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <m:CountriesUsingCurrencyResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:CountriesUsingCurrencyResult>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>AG</m:sISOCode>
+               <m:sName>Antigua &amp; Barbuda</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>DM</m:sISOCode>
+               <m:sName>Dominica</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>GD</m:sISOCode>
+               <m:sName>Grenada</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>KN</m:sISOCode>
+               <m:sName>St. Kitts &amp; Nevis</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>LC</m:sISOCode>
+               <m:sName>St. Lucia</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>MS</m:sISOCode>
+               <m:sName>Montserrat</m:sName>
+            </m:tCountryCodeAndName>
+            <m:tCountryCodeAndName>
+               <m:sISOCode>VC</m:sISOCode>
+               <m:sName>St. Vincent &amp; Grenadines</m:sName>
+            </m:tCountryCodeAndName>
+         </m:CountriesUsingCurrencyResult>
+      </m:CountriesUsingCurrencyResponse>
+   </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,21 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <m:FullCountryInfoResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:FullCountryInfoResult>
+            <m:sISOCode>AG</m:sISOCode>
+            <m:sName>Antigua &amp; Barbuda</m:sName>
+            <m:sCapitalCity>St. John's</m:sCapitalCity>
+            <m:sPhoneCode>1</m:sPhoneCode>
+            <m:sContinentCode>AM</m:sContinentCode>
+            <m:sCurrencyISOCode>XCD</m:sCurrencyISOCode>
+            <m:sCountryFlag>http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Antigua.jpg</m:sCountryFlag>
+            <m:Languages>
+               <m:tLanguage>
+                  <m:sISOCode>eng</m:sISOCode>
+                  <m:sName>English</m:sName>
+               </m:tLanguage>
+            </m:Languages>
+         </m:FullCountryInfoResult>
+      </m:FullCountryInfoResponse>
+   </soap:Body>
+</soap:Envelope>
