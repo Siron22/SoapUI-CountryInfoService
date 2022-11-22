@@ -1,7 +1,0 @@
-<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
-   <soap:Body>
-      <m:CurrencyNameResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
-         <m:CurrencyNameResult>Lati</m:CurrencyNameResult>
-      </m:CurrencyNameResponse>
-   </soap:Body>
-</soap:Envelope>
